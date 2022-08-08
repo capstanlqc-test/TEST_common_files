@@ -1,0 +1,74 @@
+[
+  {
+    "XPath":"Administration.Common_Seconds",
+    "Text":"seconds"
+  },
+  {
+    "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_CheckboxWording_ToggleButtonLabelDescription",
+    "Text":"If the field is left blank, the default wording will be used in Delivery."
+  },
+  {
+    "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_EndToEndQuestionNumbering_ToggleButtonLabelDescription",
+    "Text":"Enable or disable end-to-end question numbering."
+  },
+  {
+    "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_HorizontalSourceMaterialLayout_ToggleButtonLabelDescription",
+    "Text":"Enable or disable horizontal Source Material layout."
+  },
+  {
+    "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_ItemSetCollapsibility_ToggleButtonLabelDescription",
+    "Text":"Enable or disable collapsing of Question Stem inherited from Item Set."
+  },
+  {
+    "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_OptionalItemGroups_ToggleButtonLabelDescription",
+    "Text":"Allow candidates to select which item groups will be used for grading."
+  },
+  {
+    "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_SuppressSectionProgressBar_ToggleButtonLabelDescription",
+    "Text":"Turn on or turn off progress bar."
+  },
+  {
+    "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_VideoLoopingOnStart_ToggleButtonLabel",
+    "Text":"Autoloop all videos in test"
+  },
+  {
+    "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_VideoLoopingOnStart_ToggleButtonLabelDescription",
+    "Text":"Enable or disable whether videos automatically loop. If enabled all videos present in the test will loop, if disabled the candidate will have to manually select the video to loop."
+  },
+  {
+    "XPath":"Administration.Common_Settings_MediaOptions",
+    "Text":"Media Options"
+  },
+  {
+    "XPath":"Administration.Common_Validation_To_Fill_FieldX_Enable_Y",
+    "Text":"Field \"{0}\" can not have value with disabled \"{1}\" field."
+  },
+  {
+    "XPath":"Administration.TestProfiles_ApplicationSettings",
+    "Text":"Application Settings"
+  },
+  {
+    "XPath":"Administration.TestProfiles_ApplicationSettings_DuringExam",
+    "Text":"During The Exam"
+  },
+  {
+    "XPath":"Administration.TestProfiles_ApplicationSettings_LimitedResilienceMode_ToggleButtonLabel",
+    "Text":"Limited Resilience Mode"
+  },
+  {
+    "XPath":"Administration.TestProfiles_ApplicationSettings_LimitedResilienceMode_ToggleButtonLabelDescription",
+    "Text":"Limited Resilience Mode is used to ensure that a connection exists between ProLauncher and the server throughout a test."
+  },
+  {
+    "XPath":"Administration.TestProfiles_ApplicationSettings_ProlauncherHeader",
+    "Text":"ProLauncher Configuration"
+  },
+  {
+    "XPath":"Administration.TestProfiles_ApplicationSettings_StopTestOfflineTimeoutLabel",
+    "Text":"If ProLauncher has no connection, stop the exam after:"
+  },
+  {
+    "XPath":"Administration.TestProfiles_ApplicationSettings_StopTestOfflineTimeoutLabelDescription",
+    "Text":"This helps detect any uploading errors throughout the exam. The input box is used to define how long after a successful upload there can be of no connection, before the exam must be stopped. If this time is met, the candidate is informed that their work is not being saved, forcing them to stop the exam and contact their Test Centre Administrator. "
+  }
+]
