@@ -1,11 +1,11 @@
 [
   {
     "XPath":"Accessibility.NewPopup.CollapseDialogueButtonLabel",
-    "Text":"Close dialogue"
+    "Text":"Close box"
   },
   {
     "XPath":"Accessibility.NewPopup.ExpandDialogueButtonLabel",
-    "Text":"Open dialogue"
+    "Text":"Open box"
   },
   {
     "XPath":"Accessibility.NewPopup.OkButtonText",
